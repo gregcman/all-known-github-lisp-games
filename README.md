@@ -1,6 +1,8 @@
-format:  
-url /links  
-Description and tags  
+format:
+
+| url and links |
+| --- |
+| Description and tags  | 
   
 _______________________________________________________________________________________________  
 Library-like  
@@ -11,11 +13,11 @@ https://github.com/jl2/turtle-graphics
 https://github.com/mickbeaver/3dmath  
 https://github.com/grapesmoker/cl-geom  
 ### Physics:  
-https://github.com/Ralith/blox2d  
-A lisp port of the Box2D physics engine   
-https://github.com/Ralith/blox2d/blob/master/common/math.lisp :2d-vectors, 3d-vectors, matrices  
-https://github.com/Ralith/blox2d/blob/master/common/util.lisp  
-physics  
+
+| https://github.com/Ralith/blox2d |
+| --- |
+| A lisp port of the Box2D physics engine. https://github.com/Ralith/blox2d/blob/master/common/math.lisp :2d-vectors, 3d-vectors, matrices, https://github.com/Ralith/blox2d/blob/master/common/util.lisp physics |
+
 ### Text:  
 https://github.com/tamamu/glisph  
 ### GUI:  
