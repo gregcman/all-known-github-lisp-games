@@ -5,40 +5,40 @@ Description and tags
 _______________________________________________________________________________________________  
 Library-like  
   
-Geometry:  
+### Geometry:  
 https://github.com/Ramarren/cl-geometry  
 https://github.com/jl2/turtle-graphics  
 https://github.com/mickbeaver/3dmath  
 https://github.com/grapesmoker/cl-geom  
-Physics:  
+### Physics:  
 https://github.com/Ralith/blox2d  
 A lisp port of the Box2D physics engine   
 https://github.com/Ralith/blox2d/blob/master/common/math.lisp :2d-vectors, 3d-vectors, matrices  
 https://github.com/Ralith/blox2d/blob/master/common/util.lisp  
 physics  
-Text:  
+### Text:  
 https://github.com/tamamu/glisph  
-GUI:  
+### GUI:  
 https://github.com/cbaggers/tiling-viewport-manager  
 https://github.com/nklein/Woolly  
-Deployment:  
+### Deployment:  
 https://github.com/Shinmera/deploy  
 https://github.com/cbaggers/shipshape  
-File Formats:  
+### File Formats:  
 https://github.com/fisxoj/cl-tga  
 https://github.com/3b/classimp  
 https://github.com/jl2/ribgen  
 https://github.com/jl2/rib  
   
-VR:  
+### VR:  
 https://github.com/nixz/cl-vr  
 https://github.com/3b/3b-openvr-hello  
 https://github.com/3b/3b-openvr  
   
 ________________________________________________________________________________________________  
-Game-like ->   
+## Game-like
   
-Tutorials:  
+### Tutorials:  
 https://github.com/netguy204/LispGLShaders  
 https://github.com/TatriX/cl-gl-tutorials  
 https://github.com/k-stz/arcsynthesis  
@@ -50,7 +50,7 @@ https://github.com/cgore/2013-11-07-opengl-lisp-talk
 https://github.com/penguin2774/CL-OpenGL-Super-Bible-Examples  
 https://github.com/leosongwei/graphics-practice  
   
-Apps:  
+### Apps:  
   
 https://github.com/cromachina/filevis  
 https://github.com/hahahahaman/turtle-geometry  
@@ -60,7 +60,7 @@ Opengl:legacy, platform:macOS
 https://github.com/jl2/life3d  
 Opengl:legacy  
   
-Misc?:  
+### Misc?:  
 https://github.com/shortsightedsid/livecoding  
 https://github.com/prtamil/Awesome-Lisp-Code  
 https://github.com/azimut/shiny  
@@ -72,7 +72,7 @@ https://github.com/et4te/lisp3d
 https://github.com/tomekame0126/Common-boxman  
 https://github.com/ApocalypticOctopus/cl-portray  
   
-Large:  
+### Large:  
 https://github.com/honix/Artilico  
 https://github.com/luksamuk/opengames  
 https://github.com/BradWBeer/clinch  
@@ -107,7 +107,7 @@ https://github.com/tamamu/tenuvg
 https://github.com/penguin2774/rie2dgl  
 https://github.com/zhevilh/nova  
   
-Games:    
+### Games:    
 https://github.com/xzpeter/starwar  
 https://github.com/ahungry/sdl-blub  
 https://github.com/Emmatipate/untitled-lisp-game  
