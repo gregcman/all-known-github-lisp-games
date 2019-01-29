@@ -1,5 +1,4 @@
-A catalogue of all known things lisp-game related
-So you 
+A catalogue of all things lisp-game related 
 
 format:
 
