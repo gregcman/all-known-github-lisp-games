@@ -1,4 +1,5 @@
 A catalogue of all known things lisp-game related
+So you 
 
 format:
 
@@ -12,7 +13,20 @@ format:
 https://github.com/xzpeter/starwar  
 https://github.com/ahungry/sdl-blub  
 https://github.com/Emmatipate/untitled-lisp-game  
-  
+https://github.com/lispgames/perfectstorm  
+https://github.com/gwathlobal/CotD  
+https://github.com/andyhd/asteroids
+https://github.com/borodust/notalone
+https://github.com/rpav/ninja-sphere
+
+https://github.com/sebity/the-invaders
+| --- |
+Game, remake:Space Invaders
+
+https://github.com/psilord/option-9
+| --- |
+Game, game-engine?
+ 
 https://github.com/dasuxullebt/uxul-world  
 | --- |
 Game, opengl:legacy, last-updated: Mar 21 2011  
@@ -203,7 +217,23 @@ https://github.com/jl2/rib
 https://github.com/nixz/cl-vr  
 https://github.com/3b/3b-openvr-hello  
 https://github.com/3b/3b-openvr  
-  
-# Note
 
-All entries from https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp have been included
+### window Management and Input Handling
+
+https://www.cliki.net/CLX
+| --- |
+description:"X Window System protocol to Lisp graphics libraries and applications", X11
+
+https://github.com/AlexCharlton/cl-glfw3
+| --- |
+description:"GLFW 3.x wrapper", glfw
+
+https://github.com/lispgames/cl-sdl2
+| --- |
+description
+
+  
+# Lists
+https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp Jan 29  
+https://github.com/azzamsa/awesome-cl-software Jan 29  
+https://github.com/CodyReichert/awesome-cl Jan 29  
