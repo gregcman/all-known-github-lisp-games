@@ -59,8 +59,9 @@ https://github.com/hahahahaman/turtle-geometry
 https://github.com/clarkeaa/cl-obj-preview  
 Opengl:legacy, platform:macOS  
   
-https://github.com/jl2/life3d  
-Opengl:legacy  
+https://github.com/jl2/life3d
+| --- |
+| Opengl:legacy |
   
 ### Misc?:  
 https://github.com/shortsightedsid/livecoding  
@@ -81,9 +82,11 @@ https://github.com/BradWBeer/clinch
 https://github.com/Shirakumo/trial  
   
 https://github.com/cbaggers/cepl  
+| --- |
 Opengl:3.1+  
   
 https://github.com/vydd/sketch  
+| --- |
 Opengl:3.3+  
   
 http://xelf.me/  
@@ -92,9 +95,11 @@ https://github.com/tavurth/gamesavvylisp
 https://github.com/NeonFrost/CL-RL  
   
 https://github.com/HackerTheory/first-light  
+| --- |
 Opengl:4.3+  
   
 https://github.com/db48x/xe2  
+| --- |
 remake:roguelike  
   
 https://github.com/alex-eg/ripple  
@@ -102,6 +107,7 @@ https://github.com/NeonFrost/Tamias
 https://github.com/prima-werefox/lisp-game-engine  
   
 https://github.com/luksamuk/game-sketch  
+| --- |
 remake:processing  
   
 https://github.com/jl2/clgl  
@@ -115,63 +121,83 @@ https://github.com/ahungry/sdl-blub
 https://github.com/Emmatipate/untitled-lisp-game  
   
 https://github.com/dasuxullebt/uxul-world  
+| --- |
 Game, opengl:legacy, last-updated: Mar 21 2011  
   
 https://github.com/mfiano/fringe  
+| --- |
 game-engine?  
   
 https://github.com/andyhd/ld42  
+| --- |
 Game, engine:trivial-gamekit  
   
 https://github.com/mfiano/tradewarz  
+| --- |
 Game, 3d, game-engine?, maintenance:abandoned  
   
 https://github.com/nocylah/internaut  
+| --- |
 Game, 2d, game-engine?  
   
 https://github.com/dballard/flight-sim  
+| --- |
 Game, 3d, game-engine?, opengl:legacy  
   
 https://github.com/nikki93/nlgame  
   
 https://github.com/aromazyl/common_lisp_game  
+| --- |
 text-based  
   
 https://github.com/luksamuk/sonic-lisp  
+| --- |
 engine:trivial-gamekit, game-engine?, remake:Sonic The Hedgehog, 2d  
   
 https://github.com/NeonFrost/MING  
+| --- |
 game, remake:galaga, 2d  
   
 https://github.com/NeonFrost/Kitchen-Craze  
+| --- |
 game, engine:tamias  
   
 https://github.com/orthecreedence/gol  
+| --- |
 game, opengl:legacy, remake:Conway’s Game of Life, 2d  
   
 https://github.com/borodust/mortar-combat  
+| --- |
 engine:cl-bodge, game, networked, physics, 3d  
   
 https://github.com/Th30n/cl-shake  
+| --- |
 game, game-engine, game-engine?, remake:doom, 3d  
+
 https://github.com/sabetts/evilslayer  
   
 https://github.com/sabetts/bratwurst  
+| --- |
 game, remake:bratwurst, 2d  
   
 https://github.com/RyanBurnside/mds  
+| --- |
 game, engine:trivial-gamekit, remake:danmaku, 2d  
   
 https://github.com/fusuya/moge-pong  
+| --- |
 game, remake:pong, 2d, opengl:legacy   
   
 https://github.com/kiskami/tubegame  
+| --- |
 game, engine:ogre3D  
   
 https://github.com/andyhd/primordial-soup  
   
 https://github.com/hahahahaman/clglbo  
+| --- |
 game, game-engine?, remake:breakout  
   
 https://github.com/pupcraft/sucle  
+| --- |
 Game, game-engine, remake:minecraft, 3d, engine:sucle  
