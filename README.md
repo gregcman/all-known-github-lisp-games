@@ -204,3 +204,6 @@ https://github.com/nixz/cl-vr
 https://github.com/3b/3b-openvr-hello  
 https://github.com/3b/3b-openvr  
   
+# Note
+
+All entries from https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp have been included
