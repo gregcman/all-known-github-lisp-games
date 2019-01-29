@@ -218,22 +218,7 @@ https://github.com/nixz/cl-vr
 https://github.com/3b/3b-openvr-hello  
 https://github.com/3b/3b-openvr  
 
-### window Management and Input Handling
-
-https://www.cliki.net/CLX
-| --- |
-description:"X Window System protocol to Lisp graphics libraries and applications", X11
-
-https://github.com/AlexCharlton/cl-glfw3
-| --- |
-description:"GLFW 3.x wrapper", glfw
-
-https://github.com/lispgames/cl-sdl2
-| --- |
-description
-
-  
 # Lists
-https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp Jan 29  
-https://github.com/azzamsa/awesome-cl-software Jan 29  
-https://github.com/CodyReichert/awesome-cl Jan 29  
+https://github.com/lispgames/lispgames.github.io/wiki/Common-Lisp  
+https://github.com/azzamsa/awesome-cl-software  
+https://github.com/CodyReichert/awesome-cl  
